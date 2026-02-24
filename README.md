@@ -41,7 +41,7 @@ transaction-ledger/
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/transaction-ledger.git
+
 
 2️⃣ Open the project folder:
 

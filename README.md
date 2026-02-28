@@ -53,7 +53,7 @@ OR
 
 Use Live Server in VS Code.
 
-🎯 How It Works
+🎯 How It Works today life cycle
 
 User enters transaction details (amount, type, date, description).
 
